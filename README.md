@@ -20,5 +20,5 @@ What is contained in this project:
    *  /JavaScript -> example of d3_network_graph using JS and displaying it on a simple HTML pages.
    *  /R -> example of d3_network_graph on a simple R project.
 
-
+------------------
 Realeased under <a href="https://opensource.org/licenses/GPL-3.0">GNU General Public License
