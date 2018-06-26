@@ -1,0 +1,16 @@
+/*CSS*/
+.node {
+  stroke: #fff;
+  fill: #00a65a;
+  stroke-width: 1.5px;
+}
+
+.link {
+  fill: none;
+  stroke: #bbb;
+}
+
+#svgD3Graph {
+  border-style: solid;
+  border-color:silver;
+}
